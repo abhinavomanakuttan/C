@@ -1,2 +1,2 @@
-# C-
+# C++
 My coding practices 
