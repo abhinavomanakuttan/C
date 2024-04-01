@@ -1,4 +1,4 @@
 # C++
-My coding practices 
+Coding practices 
 <br>
 Author - Abhinav Omanakuttan
