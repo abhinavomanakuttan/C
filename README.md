@@ -34,7 +34,7 @@ Open your terminal or command prompt.
 Use the git clone command followed by the copied repository URL.
 
 For HTTPS:
-
+https://github.com/abhinavomanakuttan/C-.git
 
 Usage
 Navigate to the root directory of the project.
