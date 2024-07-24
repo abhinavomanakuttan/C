@@ -1,4 +1,0 @@
-# C++
-Coding practices 
-<br>
-Author - Abhinav Omanakuttan
