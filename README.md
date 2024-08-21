@@ -1,6 +1,7 @@
 <h1>C Programming Questions</h1>
 This repository contains a collection of programming questions and solutions in the C programming language. 
 <hr>
+
 <h3>Directory Structure</h3>
 
 The repository is structured based on different topics, with each topic having its dedicated folder containing relevant programming questions and solutions.
