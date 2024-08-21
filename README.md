@@ -1,4 +1,4 @@
-<h1>C Programming Questions</h1>
+<h1> C Programming Questions </h1>
 This repository contains a collection of programming questions and solutions in the C programming language. 
 <hr>
 
